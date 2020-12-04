@@ -2,6 +2,6 @@
 
 More toys, more fun!
 
-| Title               | What is it?     |
-| ------------------- | --------------- |
-| The Facets of Seoul | expending cards |
+| #   | Title               | What is it?     |
+| --- | ------------------- | --------------- |
+| 1   | The Facets of Seoul | expending cards |

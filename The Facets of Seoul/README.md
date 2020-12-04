@@ -1,3 +1,5 @@
+![screenshot](./Screenshot.png)
+
 # 기능
 
 - 사진을 클릭하면 크기가 커집니다.
